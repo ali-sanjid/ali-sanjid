@@ -1,16 +1,20 @@
-### Hi there 👋
+![](https://github.com/ali-sanjid/myself/blob/main/banner.png)
 
-<!--
-**ali-sanjid/ali-sanjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sanjid Ali
 
-Here are some ideas to get you started:
+I am a former Civil Engineer who got captivated by what data is capable of in day to day life. I am excited to share my journey and experiences as I explore the world of data-driven insights and solutions on this fascinating new career path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills: 
+🐍Python 
+🖥️SQL
+📶Tableau 
+
+- 🔭 I’m currently working on freelance projects. 
+- 🌱 I’m currently learning Machine learning 
+- 🤔 I’m looking for help with Data Analytics 
+- 💬 Ask me about how to learn Python and SQL if you are an absolute beginner 
+- 📫 How to reach me: ali.smsanjid@gmail.com 
+- ⚡ Fun fact: I used to play Dota(online multiplayer strategy game) like an addict! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sm-sanjid-ali//)  
