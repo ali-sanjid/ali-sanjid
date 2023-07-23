@@ -17,4 +17,4 @@ I am a former Civil Engineer who got captivated by what data is capable of in da
 - ⚡ Fun fact: I used to play Dota(online multiplayer strategy game) like an addict! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sm-sanjid-ali//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sm-sanjid-ali)  
