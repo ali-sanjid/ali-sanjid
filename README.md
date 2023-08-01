@@ -10,7 +10,7 @@ I am a former Civil Engineer who got captivated by what data is capable of in da
 📶Tableau 
 
 - 🔭 I’m currently working on freelance projects. 
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning Data Viz 
 - 🤔 I’m looking for help with Data Analytics 
 - 💬 Ask me about how to learn Python and SQL if you are an absolute beginner 
 - 📫 How to reach me: ali.smsanjid@gmail.com 
