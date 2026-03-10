@@ -2,7 +2,7 @@
 
 # Sanjid Ali
 
-Former civil engineer currently pursuing a Master’s in Mathematics & Statistics. Interested in applying quantitative methods, programming, and data analysis to real-world problems.
+M.S. Candidate in Mathematics and Statistics with an engineering foundation and hands-on experience in operations management. Designed and automated data collection pipelines in Python, transforming raw data into structured datasets that drive analytical decision-making.
 
 # Skills: 
 
