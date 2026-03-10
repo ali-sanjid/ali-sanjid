@@ -5,6 +5,7 @@
 Former civil engineer currently pursuing a Master’s in Mathematics & Statistics. Interested in applying quantitative methods, programming, and data analysis to real-world problems.
 
 # Skills: 
+
 -Python
 -SQL
 -Statistics
