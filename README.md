@@ -6,10 +6,10 @@ Former civil engineer currently pursuing a Master’s in Mathematics & Statistic
 
 # Skills: 
 
--Python
--SQL
--Statistics
--Microsoft Excel
+- Python
+- SQL
+- Statistics
+- Microsoft Excel
 
 # Current Focus
 
